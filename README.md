@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elijah Oladapo</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">Software Engineer from Nigeria</h3>
 
-- 🌱 Software Engineer **Reactjs, Mongodb, Express, Nodejs, Typescript**
+- 🌱 My stacks **Reactjs, Mongodb, Express, Nodejs, Typescript**
 
 - 👯 I’m looking to collaborate on **project**
 
