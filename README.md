@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elijah Oladapo</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **Reactjs, Mongodb, Express, Nodejs**
+- 🌱 Software Engineer **Reactjs, Mongodb, Express, Nodejs, Typescript**
 
 - 👯 I’m looking to collaborate on **project**
-
-- 🤝 I’m looking for help with **Internsship**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Geoladapo](https://github.com/Geoladapo)
 
