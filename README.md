@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Elijah Oladapo</h1>
 <h3 align="center">Software Engineer from Nigeria</h3>
 
-- 🌱 My stacks **Reactjs, Mongodb, Express, Nodejs, Typescript**
+- 🌱 My stacks **Java, Springboot, Reactjs, Mongodb, Express, Nodejs, Typescript**
 
 - 👯 Currently Buillding My backend skills 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Geoladapo](https://github.com/Geoladapo)
 
-- 📫 How to reach me **toktogift@gmail.com**
+- 📫 How to reach me **oladapoelijah49@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
